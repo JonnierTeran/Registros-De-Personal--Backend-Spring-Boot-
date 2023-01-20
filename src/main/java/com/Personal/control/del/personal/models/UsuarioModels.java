@@ -43,6 +43,6 @@ public class UsuarioModels {
     }
 
 
-    //Con esto ya tenemos una entidad real en una base de datos
+    //Con esto ya tenemos una entidad real en una base de datos con jpa
 
 }
