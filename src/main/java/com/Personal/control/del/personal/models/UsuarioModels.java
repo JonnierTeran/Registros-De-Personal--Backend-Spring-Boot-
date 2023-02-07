@@ -1,10 +1,7 @@
 package com.Personal.control.del.personal.models;
 
-
 //Notaciones necesarias para indicar las caracteristicas de la tabla sql
 import jakarta.persistence.*;
-
-
 
 @Entity // Indicador de que es un modelo Real para una Base de datos
 @Table(name = "Personas") // Indicamos el nombre que queremos para la tabla en la bd para que no use el de la clase
